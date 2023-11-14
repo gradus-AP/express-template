@@ -1,0 +1,29 @@
+nav {
+    background-color: beige;
+    margin: 0;
+    height: 60px;
+}
+
+.main {
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+.form-wrapper {
+    /* margin-left: 100px; */
+    margin-right: 100px;
+}
+
+#confirm {
+    width: 100%;
+}

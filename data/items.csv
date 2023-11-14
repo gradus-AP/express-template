@@ -1,0 +1,4 @@
+id,name,price,quantity,createdAt
+1,pizza,1000,10,2023/11/13 20:04:21
+2,french fries,400,5,2023/11/13 20:09:26
+3,coke,250,5,2023/11/13 20:09:47
